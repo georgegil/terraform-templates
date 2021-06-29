@@ -1,3 +1,8 @@
+This Repository will be archive. Starting 6/29/21 will be keep as a Archive Repository. We have made this decission after confirming with respective owners. This is in effort of GitHub clean up project.
+
+
+
+
 Terraform Templates to Deploy Infrastructure onto AWS
 -------------------------------------------------------
 
